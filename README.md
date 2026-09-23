@@ -153,10 +153,7 @@ The Power BI dashboard provides an interactive overview of customer shopping beh
 
 Add a screenshot of the dashboard to the repository and update the filename below if necessary:
 
-```markdown
-<img width="1345" height="756" alt="image" src="https://github.com/user-attachments/assets/f85599ff-c6dc-4f5a-8fd1-511f88d65209" />
-
-```
+![Customer Shopping Behaviour Dashboard](dashboard_customer_behaviour.png)
 
 ## Key Insights
 
@@ -284,12 +281,12 @@ Tutorial: [Customer Shopping Behavior Data Analytics Project](https://youtu.be/5
 
 ## Author
 
-**Radka Angel**
+**Radka Nhapulo**
 
 Software Engineering graduate developing practical expertise in data analytics, backend development, SQL, and business intelligence.
 
-* GitHub: [Add your GitHub profile](YOUR_GITHUB_URL)
-* LinkedIn: [Add your LinkedIn profile](YOUR_LINKEDIN_URL)
+* GitHub: [radQueen258](https://github.com/radQueen258)
+* LinkedIn: [Radka Nhapulo](http://www.linkedin.com/in/radka-nhapulo)
 
 ## Acknowledgements
 
